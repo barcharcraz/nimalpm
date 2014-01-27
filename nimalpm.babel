@@ -1,0 +1,13 @@
+[Package]
+name = "nimalpm"
+version = "0.1"
+author = "Charlie Barto"
+description = "A nimrod wrapper for libalpm"
+license = "GPLv2"
+
+InstallFiles = """
+
+calpm.nim
+tests/rawalpmops.nim
+"""
+
