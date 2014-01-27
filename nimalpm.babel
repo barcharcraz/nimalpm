@@ -8,6 +8,6 @@ license = "GPLv2"
 InstallFiles = """
 
 calpm.nim
-tests/rawalpmops.nim
+tests/rawalpmopts.nim
 """
 
